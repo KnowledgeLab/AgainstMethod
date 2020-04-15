@@ -1,0 +1,81 @@
+token	pos	ratio	category
+practice	Noun	5.091	Qual
+way	Noun	3.011	Qual
+scientist	Noun	2.264	Qual
+concept	Noun	2.21	Qual
+work	Noun	2.073	Qual
+context	Noun	2.013	Qual
+question	Noun	1.839	Qual
+theory	Noun	1.807	Qual
+issue	Noun	1.772	Qual
+decision	Noun	1.72	Qual
+factor	Noun	2.555	Quant
+data	Noun	2.577	Quant
+level	Noun	2.586	Quant
+information	Noun	2.611	Quant
+period	Noun	2.726	Quant
+innovation	Noun	2.959	Quant
+result	Noun	3.103	Quant
+number	Noun	3.107	Quant
+country	Noun	3.12	Quant
+impact	Noun	3.985	Quant
+social	Adjective	2.47	Qual
+public	Adjective	2.319	Qual
+technical	Adjective	1.667	Qual
+particular	Adjective	1.623	Qual
+theoretical	Adjective	1.393	Qual
+recent	Adjective	1.356	Qual
+such	Adjective	1.293	Qual
+scientific	Adjective	1.255	Qual
+institutional	Adjective	1.238	Qual
+new	Adjective	1.194	Qual
+general	Adjective	1.295	Quant
+technological	Adjective	1.319	Quant
+different	Adjective	1.319	Quant
+same	Adjective	1.392	Quant
+more	Adjective	1.504	Quant
+empirical	Adjective	1.687	Quant
+large	Adjective	1.952	Quant
+international	Adjective	1.959	Quant
+significant	Adjective	1.99	Quant
+high	Adjective	2.528	Quant
+argue	Verb	4.27	Qual
+draw	Verb	2.698	Qual
+make	Verb	1.886	Qual
+become	Verb	1.877	Qual
+explore	Verb	1.776	Qual
+produce	Verb	1.716	Qual
+describe	Verb	1.532	Qual
+examine	Verb	1.437	Qual
+take	Verb	1.421	Qual
+involve	Verb	1.375	Qual
+show	Verb	1.533	Quant
+propose	Verb	1.568	Quant
+use	Verb	1.603	Quant
+base	Verb	1.792	Quant
+investigate	Verb	1.935	Quant
+identify	Verb	1.973	Quant
+apply	Verb	2.255	Quant
+increase	Verb	2.482	Quant
+find	Verb	2.506	Quant
+compare	Verb	2.532	Quant
+yet	Adverb | Preposition	2.059	Qual
+so	Adverb | Preposition	1.989	Qual
+increasingly	Adverb | Preposition	1.764	Qual
+rather	Adverb | Preposition	1.735	Qual
+often	Adverb | Preposition	1.611	Qual
+thus	Adverb | Preposition	1.277	Qual
+here	Adverb | Preposition	1.172	Qual
+particularly	Adverb | Preposition	1.111	Qual
+not	Adverb | Preposition	1.07	Qual
+specifically	Adverb | Preposition	1.025	Qual
+more	Adverb | Preposition	1.187	Quant
+also	Adverb | Preposition	1.21	Quant
+as	Adverb | Preposition	1.225	Quant
+however	Adverb | Preposition	1.261	Quant
+well	Adverb | Preposition	1.262	Quant
+only	Adverb | Preposition	1.335	Quant
+very	Adverb | Preposition	1.37	Quant
+finally	Adverb | Preposition	1.371	Quant
+highly	Adverb | Preposition	1.479	Quant
+most	Adverb | Preposition	2.061	Quant

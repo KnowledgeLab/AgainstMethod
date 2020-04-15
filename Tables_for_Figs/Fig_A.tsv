@@ -1,0 +1,241 @@
+token	pos	ratio	category
+interview	Noun	5.527	Qual
+debate	Noun	5.321	Qual
+construction	Noun	5.248	Qual
+sociology	Noun	5.22	Qual
+practice	Noun	5.091	Qual
+century	Noun	4.82	Qual
+notion	Noun	4.719	Qual
+body	Noun	4.503	Qual
+action	Noun	4.301	Qual
+boundary	Noun	4.138	Qual
+society	Noun	3.887	Qual
+material	Noun	3.886	Qual
+regulation	Noun	3.851	Qual
+risk	Noun	3.847	Qual
+history	Noun	3.794	Qual
+laboratory	Noun	3.624	Qual
+actor	Noun	3.573	Qual
+participant	Noun	3.566	Qual
+transformation	Noun	3.305	Qual
+concern	Noun	3.244	Qual
+public	Noun	3.209	Qual
+governance	Noun	3.199	Qual
+form	Noun	3.12	Qual
+argument	Noun	3.088	Qual
+health	Noun	3.071	Qual
+person	Noun	3.047	Qual
+expert	Noun	3.028	Qual
+way	Noun	3.011	Qual
+representation	Noun	2.894	Qual
+power	Noun	2.797	Qual
+collaboration	Noun	2.888	Quant
+innovation	Noun	2.959	Quant
+share	Noun	2.992	Quant
+characteristic	Noun	3.027	Quant
+hypothesis	Noun	3.08	Quant
+result	Noun	3.103	Quant
+number	Noun	3.107	Quant
+country	Noun	3.12	Quant
+investment	Noun	3.146	Quant
+distribution	Noun	3.262	Quant
+growth	Noun	3.519	Quant
+advantage	Noun	3.628	Quant
+region	Noun	3.844	Quant
+pattern	Noun	3.861	Quant
+performance	Noun	3.978	Quant
+impact	Noun	3.985	Quant
+sample	Noun	3.987	Quant
+measure	Noun	4.452	Quant
+trend	Noun	4.83	Quant
+productivity	Noun	5.132	Quant
+rate	Noun	5.266	Quant
+increase	Noun	5.529	Quant
+journal	Noun	6.739	Quant
+publication	Noun	7.085	Quant
+web	Noun	7.842	Quant
+output	Noun	10.783	Quant
+patent	Noun	10.826	Quant
+indicator	Noun	12.115	Quant
+firm	Noun	12.145	Quant
+citation	Noun	12.358	Quant
+cultural	Adjective	6.219	Qual
+political	Adjective	6.18	Qual
+professional	Adjective	3.985	Qual
+modern	Adjective	3.763	Qual
+historical	Adjective	3.322	Qual
+human	Adjective	3.145	Qual
+environmental	Adjective	2.762	Qual
+medical	Adjective	2.674	Qual
+clinical	Adjective	2.581	Qual
+western	Adjective	2.477	Qual
+social	Adjective	2.47	Qual
+american	Adjective	2.376	Qual
+public	Adjective	2.319	Qual
+heterogeneous	Adjective	2.169	Qual
+wider	Adjective	2.168	Qual
+central	Adjective	2.078	Qual
+practical	Adjective	2.045	Qual
+personal	Adjective	1.991	Qual
+conceptual	Adjective	1.979	Qual
+biomedical	Adjective	1.897	Qual
+broader	Adjective	1.896	Qual
+critical	Adjective	1.891	Qual
+distinct	Adjective	1.878	Qual
+experimental	Adjective	1.835	Qual
+fundamental	Adjective	1.83	Qual
+conventional	Adjective	1.801	Qual
+crucial	Adjective	1.781	Qual
+alternative	Adjective	1.775	Qual
+own	Adjective	1.758	Qual
+early	Adjective	1.747	Qual
+similar	Adjective	2.03	Quant
+larger	Adjective	2.094	Quant
+simple	Adjective	2.106	Quant
+full	Adjective	2.151	Quant
+short	Adjective	2.19	Quant
+external	Adjective	2.215	Quant
+due	Adjective	2.221	Quant
+single	Adjective	2.259	Quant
+strong	Adjective	2.278	Quant
+higher	Adjective	2.319	Quant
+small	Adjective	2.333	Quant
+likely	Adjective	2.342	Quant
+collaborative	Adjective	2.343	Quant
+consistent	Adjective	2.354	Quant
+productive	Adjective	2.489	Quant
+high	Adjective	2.528	Quant
+better	Adjective	2.564	Quant
+main	Adjective	2.592	Quant
+quantitative	Adjective	2.719	Quant
+negative	Adjective	2.731	Quant
+previous	Adjective	2.769	Quant
+relative	Adjective	2.881	Quant
+most	Adjective	2.909	Quant
+subject	Adjective	3.013	Quant
+overall	Adjective	3.241	Quant
+regional	Adjective	3.574	Quant
+foreign	Adjective	3.771	Quant
+low	Adjective	3.813	Quant
+positive	Adjective	4.105	Quant
+innovative	Adjective	5.274	Quant
+claim	Verb	4.626	Qual
+argue	Verb	4.27	Qual
+shape	Verb	4.229	Qual
+challenge	Verb	3.096	Qual
+constitute	Verb	3.06	Qual
+see	Verb	2.894	Qual
+bring	Verb	2.856	Qual
+move	Verb	2.805	Qual
+seek	Verb	2.711	Qual
+draw	Verb	2.698	Qual
+arise	Verb	2.685	Qual
+understand	Verb	2.649	Qual
+turn	Verb	2.642	Qual
+manage	Verb	2.611	Qual
+engage	Verb	2.597	Qual
+emphasize	Verb	2.478	Qual
+begin	Verb	2.474	Qual
+maintain	Verb	2.432	Qual
+construct	Verb	2.402	Qual
+embed	Verb	2.338	Qual
+serve	Verb	2.319	Qual
+recognize	Verb	2.148	Qual
+call	Verb	2.129	Qual
+compete	Verb	2.117	Qual
+continue	Verb	2.099	Qual
+view	Verb	2.095	Qual
+go	Verb	2.065	Qual
+look	Verb	2.059	Qual
+mean	Verb	2.037	Qual
+come	Verb	1.996	Qual
+perform	Verb	1.757	Quant
+enhance	Verb	1.784	Quant
+base	Verb	1.792	Quant
+depend	Verb	1.793	Quant
+carry	Verb	1.827	Quant
+investigate	Verb	1.935	Quant
+identify	Verb	1.973	Quant
+accord	Verb	1.996	Quant
+classify	Verb	2.065	Quant
+observe	Verb	2.155	Quant
+collect	Verb	2.214	Quant
+apply	Verb	2.255	Quant
+map	Verb	2.285	Quant
+predict	Verb	2.371	Quant
+improve	Verb	2.443	Quant
+receive	Verb	2.445	Quant
+determine	Verb	2.449	Quant
+increase	Verb	2.482	Quant
+find	Verb	2.506	Quant
+compare	Verb	2.532	Quant
+evaluate	Verb	2.54	Quant
+assess	Verb	2.549	Quant
+expect	Verb	2.723	Quant
+test	Verb	2.827	Quant
+indicate	Verb	3.061	Quant
+select	Verb	3.574	Quant
+publish	Verb	4.025	Quant
+obtain	Verb	4.341	Quant
+measure	Verb	4.628	Quant
+cite	Verb	8.139	Quant
+yet	Adverb | Preposition	2.059	Qual
+just	Adverb | Preposition	2.05	Qual
+now	Adverb | Preposition	2.02	Qual
+together	Adverb | Preposition	2.005	Qual
+so	Adverb | Preposition	1.989	Qual
+instead	Adverb | Preposition	1.856	Qual
+increasingly	Adverb | Preposition	1.764	Qual
+rather	Adverb | Preposition	1.735	Qual
+potentially	Adverb | Preposition	1.719	Qual
+closely	Adverb | Preposition	1.634	Qual
+actually	Adverb | Preposition	1.619	Qual
+often	Adverb | Preposition	1.611	Qual
+largely	Adverb | Preposition	1.506	Qual
+always	Adverb | Preposition	1.488	Qual
+usually	Adverb | Preposition	1.375	Qual
+thereby	Adverb | Preposition	1.356	Qual
+too	Adverb | Preposition	1.355	Qual
+currently	Adverb | Preposition	1.301	Qual
+thus	Adverb | Preposition	1.277	Qual
+first	Adverb | Preposition	1.266	Qual
+indeed	Adverb | Preposition	1.266	Qual
+already	Adverb | Preposition	1.239	Qual
+typically	Adverb | Preposition	1.188	Qual
+here	Adverb | Preposition	1.172	Qual
+about	Adverb | Preposition	1.161	Qual
+widely	Adverb | Preposition	1.127	Qual
+particularly	Adverb | Preposition	1.111	Qual
+nevertheless	Adverb | Preposition	1.074	Qual
+not	Adverb | Preposition	1.07	Qual
+specifically	Adverb | Preposition	1.025	Qual
+out	Adverb | Preposition	1.198	Quant
+also	Adverb | Preposition	1.21	Quant
+no	Adverb | Preposition	1.211	Quant
+as	Adverb | Preposition	1.225	Quant
+better	Adverb | Preposition	1.236	Quant
+generally	Adverb | Preposition	1.257	Quant
+however	Adverb | Preposition	1.261	Quant
+well	Adverb | Preposition	1.262	Quant
+almost	Adverb | Preposition	1.273	Quant
+effectively	Adverb | Preposition	1.281	Quant
+only	Adverb | Preposition	1.335	Quant
+very	Adverb | Preposition	1.37	Quant
+finally	Adverb | Preposition	1.371	Quant
+recently	Adverb | Preposition	1.372	Quant
+still	Adverb | Preposition	1.376	Quant
+namely	Adverb | Preposition	1.416	Quant
+highly	Adverb | Preposition	1.479	Quant
+there	Adverb | Preposition	1.488	Quant
+therefore	Adverb | Preposition	1.556	Quant
+less	Adverb | Preposition	1.578	Quant
+empirically	Adverb | Preposition	1.596	Quant
+directly	Adverb | Preposition	1.619	Quant
+further	Adverb | Preposition	1.721	Quant
+frequently	Adverb | Preposition	1.741	Quant
+most	Adverb | Preposition	2.061	Quant
+moreover	Adverb | Preposition	2.126	Quant
+mainly	Adverb | Preposition	2.184	Quant
+relatively	Adverb | Preposition	2.275	Quant
+furthermore	Adverb | Preposition	2.744	Quant
+significantly	Adverb | Preposition	3.224	Quant
